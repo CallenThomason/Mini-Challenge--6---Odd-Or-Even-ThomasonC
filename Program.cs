@@ -5,8 +5,8 @@ Mini Challenge #6 - Odd or Even
 I was able to check if a number input by a user was odd or even using the modulo, and an if else statment.
 Then I asked the player if they wanted to play again using a do while loop and a while loop to check if they input a valid answer. 
 Also used .ToUpper to make 'y' and 'n' acceptable answers. 
-Peer Revwier: 
-Review:
+Peer Revwier: Valery Lot
+Review: Thorough flow chart. Code is clean and concise. Also, great idea to end with "thank you for playing" when user wants to stop playing.
 */
 
 Console.Clear(); 
