@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Challenge #6 - Odd Or Even ThomasonC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0269bf4a9d4e8a3ac577c077c702cc941ddabb60")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Challenge #6 - Odd Or Even ThomasonC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Challenge #6 - Odd Or Even ThomasonC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
