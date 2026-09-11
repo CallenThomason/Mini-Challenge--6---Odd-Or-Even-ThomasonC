@@ -1,0 +1,14 @@
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\bin\Debug\net10.0\Mini Challenge #6 - Odd Or Even ThomasonC.exe
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\bin\Debug\net10.0\Mini Challenge #6 - Odd Or Even ThomasonC.deps.json
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\bin\Debug\net10.0\Mini Challenge #6 - Odd Or Even ThomasonC.runtimeconfig.json
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\bin\Debug\net10.0\Mini Challenge #6 - Odd Or Even ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\bin\Debug\net10.0\Mini Challenge #6 - Odd Or Even ThomasonC.pdb
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\obj\Debug\net10.0\Mini Challenge #6 - Odd Or Even ThomasonC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\obj\Debug\net10.0\Mini Challenge #6 - Odd Or Even ThomasonC.AssemblyInfoInputs.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\obj\Debug\net10.0\Mini Challenge #6 - Odd Or Even ThomasonC.AssemblyInfo.cs
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\obj\Debug\net10.0\Mini Challenge #6 - Odd Or Even ThomasonC.csproj.CoreCompileInputs.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\obj\Debug\net10.0\Mini Challenge #6 - Odd Or Even ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\obj\Debug\net10.0\refint\Mini Challenge #6 - Odd Or Even ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\obj\Debug\net10.0\Mini Challenge #6 - Odd Or Even ThomasonC.pdb
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\obj\Debug\net10.0\Mini Challenge #6 - Odd Or Even ThomasonC.genruntimeconfig.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #6 - Odd Or Even ThomasonC\obj\Debug\net10.0\ref\Mini Challenge #6 - Odd Or Even ThomasonC.dll
